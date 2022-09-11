@@ -1,6 +1,6 @@
 # bloomclock
 
-Exploring Bllom Clocks as described in this paper:
+Exploring Bloom Clocks as described in this paper:
 
 [The Bloom Clock](https://www.researchgate.net/publication/333505687_The_Bloom_Clock)
 
